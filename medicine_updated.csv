@@ -1,0 +1,11 @@
+id,name,use0,substitute0,sideEffect0,availability
+1,Paracetamol,fever and pain,Acetaminophen,"nausea, liver issues (rare)",Available
+2,Ibuprofen,pain and inflammation,Naproxen,stomach irritation,Out of Stock
+3,Amoxicillin,bacterial infections,Ciprofloxacin,"diarrhea, rash",Out of Stock
+4,Azithromycin,respiratory infections,Clarithromycin,"nausea, stomach pain",Available
+5,ORS,dehydration and diarrhea,Electral,vomiting (rare),Available
+6,Cetirizine,allergy relief,Loratadine,drowsiness,Available
+7,Metformin,diabetes,Glimepiride,low blood sugar,Available
+8,Salbutamol,asthma,Levosalbutamol,tremors,Out of Stock
+9,Omeprazole,acidity and ulcers,Pantoprazole,headache,Available
+10,Aspirin,heart health and pain,Clopidogrel,bleeding risk,Out of Stock
