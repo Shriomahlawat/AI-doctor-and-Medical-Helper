@@ -1,0 +1,11 @@
+doctor_id,name,specialization,location,experience_years,wait_time,rating,fee,num_patients,num_appointments_today,is_available_today
+1,Dr. Sharma,Cardiologist,City Hospital,12,11,3.5,689,43,25,1
+2,Dr. Mehta,Physician,City Hospital,18,25,3.8,353,19,20,1
+3,Dr. Khan,Orthopedic,Metro Care,17,13,3.9,405,45,22,0
+4,Dr. Reddy,Dentist,Metro Care,17,43,4.5,559,23,28,0
+5,Dr. Singh,Neurologist,Life Line,21,22,4.4,609,40,30,1
+6,Dr. Gupta,Pediatrician,Life Line,14,8,4.7,776,24,29,1
+7,Dr. Patel,Dermatologist,City Hospital,22,29,3.8,490,17,33,1
+8,Dr. Iyer,ENT,Metro Care,5,18,4.1,701,23,19,1
+9,Dr. Verma,Gynecologist,Life Line,7,54,3.8,517,32,5,0
+10,Dr. Das,General Surgeon,City Hospital,21,13,4.6,343,49,29,1
